@@ -43,6 +43,8 @@ const COMPETENCIES = [
  {
   "id": "coif01",
   "order": 1,
+  "code": "418011",
+  "hours": 15,
   "title_fr": "Métier et formation",
   "title_en": "Trade and Training",
   "icon": "💈",
@@ -241,6 +243,8 @@ const COMPETENCIES = [
  {
   "id": "coif02",
   "order": 2,
+  "code": "418022",
+  "hours": 30,
   "title_fr": "Santé et sécurité",
   "title_en": "Health and Safety",
   "icon": "🧤",
@@ -439,6 +443,8 @@ const COMPETENCIES = [
  {
   "id": "coif03",
   "order": 3,
+  "code": "418033",
+  "hours": 45,
   "title_fr": "Examen des cheveux et du cuir chevelu",
   "title_en": "Hair and Scalp Examination",
   "icon": "🔍",
@@ -637,6 +643,8 @@ const COMPETENCIES = [
  {
   "id": "coif04",
   "order": 4,
+  "code": "418042",
+  "hours": 30,
   "title_fr": "Morphologie et physionomie",
   "title_en": "Morphology and Physiognomy",
   "icon": "🪞",
@@ -835,6 +843,8 @@ const COMPETENCIES = [
  {
   "id": "coif05",
   "order": 5,
+  "code": "418052",
+  "hours": 30,
   "title_fr": "Shampooing",
   "title_en": "Shampooing",
   "icon": "🧴",
@@ -1033,6 +1043,8 @@ const COMPETENCIES = [
  {
   "id": "coif06",
   "order": 6,
+  "code": "418064",
+  "hours": 60,
   "title_fr": "Traitement des cheveux et du cuir chevelu",
   "title_en": "Hair and Scalp Treatment",
   "icon": "💆",
@@ -1231,6 +1243,8 @@ const COMPETENCIES = [
  {
   "id": "coif07",
   "order": 7,
+  "code": "418073",
+  "hours": 45,
   "title_fr": "Mise en plis",
   "title_en": "Setting (Roller Sets)",
   "icon": "🌀",
@@ -1429,6 +1443,8 @@ const COMPETENCIES = [
  {
   "id": "coif08",
   "order": 8,
+  "code": "418085",
+  "hours": 75,
   "title_fr": "Mise en forme",
   "title_en": "Styling",
   "icon": "💨",
@@ -1627,6 +1643,8 @@ const COMPETENCIES = [
  {
   "id": "coif09",
   "order": 9,
+  "code": "418093",
+  "hours": 45,
   "title_fr": "Communication",
   "title_en": "Communication",
   "icon": "💬",
@@ -1825,6 +1843,8 @@ const COMPETENCIES = [
  {
   "id": "coif10",
   "order": 10,
+  "code": "418108",
+  "hours": 120,
   "title_fr": "Coupe standard pour femme",
   "title_en": "Standard Haircut for Women",
   "icon": "✂️",
@@ -2023,6 +2043,8 @@ const COMPETENCIES = [
  {
   "id": "coif11",
   "order": 11,
+  "code": "418114",
+  "hours": 60,
   "title_fr": "Coupe graduelle pour homme et taille de la barbe",
   "title_en": "Graduated Haircut for Men and Beard Trimming",
   "icon": "🪒",
@@ -2221,6 +2243,8 @@ const COMPETENCIES = [
  {
   "id": "coif12",
   "order": 12,
+  "code": "418127",
+  "hours": 105,
   "title_fr": "Permanente standard",
   "title_en": "Standard Perm",
   "icon": "🧪",
@@ -2419,6 +2443,8 @@ const COMPETENCIES = [
  {
   "id": "coif13",
   "order": 13,
+  "code": "418138",
+  "hours": 120,
   "title_fr": "Coloration",
   "title_en": "Hair Coloring",
   "icon": "🎨",
@@ -2617,6 +2643,8 @@ const COMPETENCIES = [
  {
   "id": "coif14",
   "order": 14,
+  "code": "418154",
+  "hours": 60,
   "title_fr": "Teinte pastel",
   "title_en": "Pastel Tinting",
   "icon": "🌸",
@@ -2815,6 +2843,8 @@ const COMPETENCIES = [
  {
   "id": "coif15",
   "order": 15,
+  "code": "418166",
+  "hours": 90,
   "title_fr": "Correction de couleur",
   "title_en": "Color Correction",
   "icon": "🔄",
@@ -3013,6 +3043,8 @@ const COMPETENCIES = [
  {
   "id": "coif16",
   "order": 16,
+  "code": "418173",
+  "hours": 45,
   "title_fr": "Vente de produits et services",
   "title_en": "Product and Service Sales",
   "icon": "💰",
@@ -3211,6 +3243,8 @@ const COMPETENCIES = [
  {
   "id": "coif17",
   "order": 17,
+  "code": "418185",
+  "hours": 75,
   "title_fr": "Coupe stylisée",
   "title_en": "Stylized Haircut",
   "icon": "💇",
@@ -3409,6 +3443,8 @@ const COMPETENCIES = [
  {
   "id": "coif18",
   "order": 18,
+  "code": "418195",
+  "hours": 75,
   "title_fr": "Permanente stylisée",
   "title_en": "Stylized Perm",
   "icon": "✨",
@@ -3607,6 +3643,8 @@ const COMPETENCIES = [
  {
   "id": "coif19",
   "order": 19,
+  "code": "418208",
+  "hours": 120,
   "title_fr": "Coloration créative",
   "title_en": "Creative Coloring",
   "icon": "🌈",
@@ -3805,6 +3843,8 @@ const COMPETENCIES = [
  {
   "id": "coif20",
   "order": 20,
+  "code": "418217",
+  "hours": 105,
   "title_fr": "Coiffure personnalisée",
   "title_en": "Personalized Hairstyling",
   "icon": "👑",
@@ -4003,6 +4043,8 @@ const COMPETENCIES = [
  {
   "id": "coif21",
   "order": 21,
+  "code": "418227",
+  "hours": 105,
   "title_fr": "Stage",
   "title_en": "Internship",
   "icon": "📋",
