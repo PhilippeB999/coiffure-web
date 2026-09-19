@@ -2,7 +2,7 @@
    Au premier chargement, il met en cache tous les fichiers de l'app.
    Ensuite, l'app se lance sans réseau, exactement comme une app native. */
 
-const CACHE = "coiffurequest-v8";
+const CACHE = "coiffurequest-v9";
 const ASSETS = [
   "index.html",
   "theme-saisonnier.js",
